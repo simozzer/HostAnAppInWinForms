@@ -3,3 +3,5 @@ A friend of mine was finding it tricky to embed an external application within a
 I can understand why this was tricky - there is a lot of conflicting advice available on the internet, and several examples that do not work at all.
 
 Using Interop and the 'good old' Win32 API this is how I got it working with 'Notepad' embedded in a single form.
+
+![Notepad Within WinForms](./NotepadInCSharpApp.png)
